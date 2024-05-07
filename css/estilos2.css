@@ -169,7 +169,11 @@ input:focus {
 	top: 17px;
 	left: 17px;
 } 
-
+.bx {
+	font-size: 30px;
+	transform: translateX(120px);
+	cursor: pointer;
+}
 .contenedor-boton {
 	display: flex;
 	justify-content: center;
